@@ -100,6 +100,6 @@ export const WALL_TILE_STYLE =
 
 export const PATH_TILE_STYLE =
   TILE_STYLE +
-  " bg-gradient-to-b from-rose-900 via-purple-900 to-rose-600 \
+  " bg-gradient-to-b from-rose-800 via-purple-700 to-rose-600 \
   shadow-[0_0_20px_10px rgba(255,0,255,0.8)] hover:shadow-[0_0_25px_15px rgba(255,105,180,1)]  ";
  
